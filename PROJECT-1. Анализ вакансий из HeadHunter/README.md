@@ -13,7 +13,7 @@
 
 [Ссылка на датасет с информацией о курсе валют](https://github.com/InnaShaposhnyk/sf_data_science/blob/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HeadHunter/data/ExchangeRates.csv) 
 
-[Ссылка на папку с графиками]()
+[Ссылка на папку с графиками](https://github.com/InnaShaposhnyk/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HeadHunter/graphs)
 
 
 
